@@ -130,6 +130,7 @@ img {
 /*=============== HEADER & NAV ===============*/
 .header {
   position: fixed;
+  width: 100%;
   background-color: var(--body-color);
 }
 
