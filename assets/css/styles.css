@@ -138,6 +138,9 @@ img {
   transition: box-shadow .4s;
 }
 
+nav {
+  position: relative;
+}
 
 /* Navigation for mobile devices */
 
