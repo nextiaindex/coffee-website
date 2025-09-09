@@ -140,6 +140,7 @@ img {
 
 nav {
   position: relative;
+  height: var(--header-height);
 }
 
 /* Navigation for mobile devices */
