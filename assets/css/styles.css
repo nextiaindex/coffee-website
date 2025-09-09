@@ -135,6 +135,7 @@ img {
   left: 0;
   background-color: var(--body-color);
   z-index: var(--z-fixed);
+  transition: box-shadow .4s;
 }
 
 
