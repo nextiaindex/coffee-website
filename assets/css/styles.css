@@ -162,6 +162,7 @@ nav {
   display: flex;
   cursor: pointer;
   font-size: 1.5rem;
+  color: var(--white-color);
 }
 
 /* Navigation for mobile devices */
