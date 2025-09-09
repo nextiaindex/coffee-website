@@ -181,6 +181,7 @@ nav {
 
 .nav_button_text {
   text-align: center;
+  display: flex;
 }
 
 /* Show menu */
