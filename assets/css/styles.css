@@ -150,6 +150,7 @@ nav {
   color: var(--white-color);
   font-family: var(--second-font);
   font-weight: var(--font-semi-bold);
+  transition: color .4s;
 }
 
 /* Navigation for mobile devices */
