@@ -129,6 +129,7 @@ img {
 
 /*=============== HEADER & NAV ===============*/
 .header {
+  position: fixed;
   background-color: var(--body-color);
 }
 
