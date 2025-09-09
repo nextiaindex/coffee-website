@@ -161,6 +161,7 @@ nav {
 .nav_close {
   display: flex;
   cursor: pointer;
+  font-size: 1.5rem;
 }
 
 /* Navigation for mobile devices */
