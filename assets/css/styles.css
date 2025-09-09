@@ -141,6 +141,9 @@ img {
 nav {
   position: relative;
   height: var(--header-height);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 /* Navigation for mobile devices */
