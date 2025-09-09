@@ -146,6 +146,10 @@ nav {
   align-items: center;
 }
 
+.nav_logo {
+  color: var(--white-color);
+}
+
 /* Navigation for mobile devices */
 
 
