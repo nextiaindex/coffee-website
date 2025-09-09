@@ -149,6 +149,7 @@ nav {
 .nav_logo {
   color: var(--white-color);
   font-family: var(--second-font);
+  font-weight: var(--font-semi-bold);
 }
 
 /* Navigation for mobile devices */
