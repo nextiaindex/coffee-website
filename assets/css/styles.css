@@ -153,6 +153,10 @@ nav {
   transition: color .4s;
 }
 
+.nav_logo:hover {
+  color: var(--first-color);
+}
+
 /* Navigation for mobile devices */
 
 
