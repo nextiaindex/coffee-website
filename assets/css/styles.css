@@ -157,6 +157,11 @@ nav {
   color: var(--first-color);
 }
 
+.nav_toggle,
+.nav_close {
+  display: flex;
+}
+
 /* Navigation for mobile devices */
 
 
